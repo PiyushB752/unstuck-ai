@@ -1,0 +1,41 @@
+
+PROJECT NAME: Unstuck AI
+
+CATEGORY: Everyday Assistance
+
+DESCRIPTION:
+Unstuck AI is an AI-powered productivity web application that helps people overcome overwhelm by turning complicated thoughts, problems, and multiple responsibilities into one small, practical next action.
+
+CORE FEATURES:
+- Generate one actionable next step from a user's problem.
+- Identify the user's main blocker.
+- Explain why the suggested action helps.
+- Estimate the time required.
+- Generate alternative suggestions.
+- Track completed actions.
+- Save and manage session history.
+
+TECHNOLOGY STACK:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Groq API
+- MongoDB Atlas
+- Adaption Labs
+- Vercel
+
+AI INTEGRATION:
+The current application uses the Groq API with the Llama 3.3 70B Versatile model for AI-generated suggestions.
+
+ADAPTION LABS:
+Adaption Labs was used for dataset preparation and model-training experimentation as part of the project development.
+
+DEPLOYMENT:
+Vercel
+
+SOURCE CODE:
+https://github.com/PiyushB752/unstuck-ai
+
+TAGLINE:
+Small steps. Real progress.
