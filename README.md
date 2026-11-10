@@ -8,7 +8,7 @@ Instead of giving users another long to-do list, Unstuck AI helps them figure ou
 
 ## Live Demo
 
-**Deployed Link:** Add your deployment URL here.
+**Deployed Link:** https://unstuck-ai-theta.vercel.app/
 
 ## Features
 
